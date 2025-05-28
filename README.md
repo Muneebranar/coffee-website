@@ -37,7 +37,7 @@ Google Fonts (Poppins and Dancing Script)
 
 📁 Project Structure
 plaintext
-├── project.html
+├── index.html
 ├── style.css
 ├── script.js
 ├── Images/
